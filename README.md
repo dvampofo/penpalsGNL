@@ -18,4 +18,4 @@ For more details, visit: http://gnl.info.yorku.ca/
 
 ## DEMO:
 
-Live demo can be found [HERE](https://dvampofo.github.io/penpalsGNL/)
+Live demo can be found **[HERE](https://dvampofo.github.io/penpalsGNL/)**
